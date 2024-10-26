@@ -1,2 +1,2 @@
 # char_index
-Moved Permanently
+Moved Permanently to https://github.com/unicode-entropy/char_index
